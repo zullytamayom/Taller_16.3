@@ -1,4 +1,4 @@
-# 📊 Contador Simple
+# 📊 Contador
 
 Este es un proyecto básico hecho con HTML, CSS y JavaScript.
 
